@@ -1,4 +1,4 @@
-# 💬 QuickChat Full-Stack App
+# 💬 TalkSync Full-Stack App
 
 Welcome to **QuickChat**, a modern, feature-rich, full-stack real-time communication platform! This application provides users with seamless text messaging, image sharing, peer-to-peer video calling, and even an integrated AI bot participant.
 
@@ -122,6 +122,3 @@ The application will be available at `http://localhost:5173`.
   - `lib/`: Helper config files (Cloudinary, Socket.io, DB connection).
 
 ---
-
-## 📜 License
-This project is open-source and available for unrestricted use and modification.
